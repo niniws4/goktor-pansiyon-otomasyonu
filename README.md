@@ -8,9 +8,9 @@ Müşteri kayıtlarını yöneten, oda ve yatak bazlı doluluk kontrolü yapabil
 📝 Müşteri Yönetimi: Müşteri bilgilerini ekleme, silme ve anlık güncelleme (CRUD).
 
 🔍 Dinamik Listeleme: Kayıtlı tüm müşterileri tek ekranda görüntüleme ve kolay erişim.
-# 🛠️ Teknik Detaylar
+## 🛠️ Teknik Detaylar
 Dil: C# (Windows Forms)
 Veri Tabanı: MySQL
 Kütüphane: MySql.Data
-# 🚀 Çalıştırma
+## 🚀 Çalıştırma
 Veri tabanındaki pansiyon isimli tabloyu oluşturup SQL dökümünü aktardıktan sonra projeyi Visual Studio üzerinden başlatabilirsiniz.
